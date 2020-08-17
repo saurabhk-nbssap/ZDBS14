@@ -148,6 +148,12 @@
      <LENG>000005</LENG>
     </DD36M>
    </DD36M>
+   <TABL_EXTRAS>
+    <TDDAT>
+     <TABNAME>ZDBSPR</TABNAME>
+     <CCLASS>&amp;NC&amp;</CCLASS>
+    </TDDAT>
+   </TABL_EXTRAS>
   </asx:values>
  </asx:abap>
 </abapGit>
